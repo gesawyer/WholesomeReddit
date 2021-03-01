@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zaDO+0mU9g8/7fCqxGpAuyo4AZmrpjKVhHjspPLElMJHn/3TRRwtadoeD8Url4dNixaIeJQqw+aDinuMQvR16w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grace\\OneDrive\\Desktop\\RedditButWholesome\\RedditButWholesome\\RedditButWholesome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grace\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
